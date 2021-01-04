@@ -1,0 +1,10 @@
+#xxx {
+  height: 100px;
+  width: 100px;
+  border: 1px solid red;
+  position: absolute;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
